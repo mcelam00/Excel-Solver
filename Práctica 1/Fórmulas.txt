@@ -1,0 +1,5 @@
+SUMAR: =SUMA(rango o elementos a sumar separados por ;)
+MEDIA: =PROMEDIO(rango o conjunto de valores separados por ;)
+CONDICIONAL: =SI(condicin; qué pasa si se cumple; qué pasa si no se cumple)
+&&: =Y(condiciones que deben cumplirse simultaneamente) 
+||: =O(condiciones que con que se cumpla una de las dos ya vale)
